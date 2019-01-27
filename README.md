@@ -1,3 +1,2 @@
 # hello-world
-this is a small test, as i am pretty new to github.
-thanks for your attention if you do ever find this, and have a nice day
+this was a repository that i made following a tutorial about starting with github. don't mind this repository and move on
